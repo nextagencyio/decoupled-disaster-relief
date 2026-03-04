@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Global Relief Partners",
+          "path": "/homepage",
+          "heroTitle": "Ready When Disaster Strikes",
+          "heroSubtitle": "Providing Lifesaving Aid to Communities in Crisis",
+          "heroDescription": {
+            "processed": "<p>Global Relief Partners delivers rapid humanitarian assistance to communities affected by natural disasters and emergencies worldwide. From immediate response to long-term recovery, we stand with those who need us most.</p>",
+            "summary": "Global Relief Partners delivers rapid humanitarian assistance to communities affected by natural disasters and emergencies worldwide. From immediate response to long-term recovery, we stand with those"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-people",
+              "title": "",
+              "number": "2.3M",
+              "label": "People Helped"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-volunteers",
+              "title": "",
+              "number": "18,000",
+              "label": "Active Volunteers"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-operations",
+              "title": "",
+              "number": "47",
+              "label": "Operations This Year"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-countries",
+              "title": "",
+              "number": "32",
+              "label": "Countries Served"
+            }
+          ],
+          "featuredItemsTitle": "Active Operations",
+          "ctaTitle": "Help Communities Recover",
+          "ctaDescription": {
+            "processed": "<p>Your support enables us to respond within hours of a disaster, providing shelter, clean water, food, and medical supplies to families who have lost everything.</p>",
+            "summary": "Your support enables us to respond within hours of a disaster, providing shelter, clean water, food, and medical supplies to families who have lost everything."
+          },
+          "ctaPrimary": "Donate Now",
+          "ctaSecondary": "Volunteer With Us"
+        }
+      ]
+    }
+  }
+}

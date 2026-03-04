@@ -1,0 +1,144 @@
+{
+  "data": {
+    "nodeTeamMembers": {
+      "__typename": "NodeTeamMemberConnection",
+      "nodes": [
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-executive-director",
+          "title": "Carla Richardson",
+          "path": "/team/carla-richardson",
+          "body": {
+            "processed": "<p>Carla Richardson has served as Executive Director of Global Relief Partners since 2019, leading the organization through some of the most complex humanitarian crises of the past decade.</p><h2>Background</h2><p>Before joining GRP, Ms. Richardson spent 15 years with the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), serving as Deputy Humanitarian Coordinator in three countries.</p><h2>Vision</h2><p>Under her leadership, GRP has expanded its disaster preparedness programs, invested in local capacity building, and pioneered the use of data analytics for more effective disaster response.</p>",
+            "summary": "Carla Richardson has served as Executive Director of Global Relief Partners since 2019, leading the organization through some of the most complex humanitarian crises of the past decade.BackgroundBefor"
+          },
+          "position": "Executive Director",
+          "department": [
+            {
+              "id": "executive-leadership",
+              "name": "executive-leadership"
+            }
+          ],
+          "email": "crichardson@globalreliefpartners.org",
+          "phone": "(202) 555-8100",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Executive Director Carla Richardson",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-operations-director",
+          "title": "Ahmed Khalil",
+          "path": "/team/ahmed-khalil",
+          "body": {
+            "processed": "<p>Ahmed Khalil oversees all field operations for Global Relief Partners, coordinating response teams across multiple concurrent disasters and managing logistics for the organization's global supply chain.</p><h2>Experience</h2><p>Mr. Khalil has 20 years of experience in disaster response, including deployments to over 30 major disasters. He previously served as Operations Director for Doctors Without Borders in the Middle East region.</p><h2>Expertise</h2><ul><li>Large-scale emergency logistics and supply chain management</li><li>Multi-agency coordination in complex emergencies</li><li>Field team deployment and security management</li></ul>",
+            "summary": "Ahmed Khalil oversees all field operations for Global Relief Partners, coordinating response teams across multiple concurrent disasters and managing logistics for the organization's global supply chai"
+          },
+          "position": "Director of Field Operations",
+          "department": [
+            {
+              "id": "field-operations",
+              "name": "field-operations"
+            }
+          ],
+          "email": "akhalil@globalreliefpartners.org",
+          "phone": "(202) 555-8120",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+            "alt": "Director of Field Operations Ahmed Khalil",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-volunteer-coordinator",
+          "title": "Jennifer Park",
+          "path": "/team/jennifer-park",
+          "body": {
+            "processed": "<p>Jennifer Park manages Global Relief Partners' volunteer program, recruiting, training, and deploying thousands of volunteers each year to disaster-affected communities.</p><h2>Program Highlights</h2><ul><li>Grew volunteer corps from 8,000 to 18,000 active volunteers</li><li>Developed a comprehensive volunteer training curriculum</li><li>Created the Volunteer Rapid Response Network for 24-hour deployment capability</li><li>Established partnerships with 150 corporate volunteer programs</li></ul>",
+            "summary": "Jennifer Park manages Global Relief Partners' volunteer program, recruiting, training, and deploying thousands of volunteers each year to disaster-affected communities.Program HighlightsGrew volunteer"
+          },
+          "position": "Director of Volunteer Services",
+          "department": [
+            {
+              "id": "volunteer-services",
+              "name": "volunteer-services"
+            }
+          ],
+          "email": "jpark@globalreliefpartners.org",
+          "phone": "(202) 555-8140",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+            "alt": "Director of Volunteer Services Jennifer Park",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

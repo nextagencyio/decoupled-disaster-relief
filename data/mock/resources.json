@@ -1,0 +1,141 @@
+{
+  "data": {
+    "nodeResources": {
+      "__typename": "NodeResourceConnection",
+      "nodes": [
+        {
+          "__typename": "NodeResource",
+          "id": "resource-family-plan",
+          "title": "Family Emergency Preparedness Plan",
+          "path": "/resources/family-emergency-plan",
+          "body": {
+            "processed": "<p>Every family should have an emergency plan in place before disaster strikes. This comprehensive guide walks you through creating a plan that will keep your family safe during any emergency.</p><h2>What Your Plan Should Include</h2><ul><li>Communication plan: How your family will contact each other if separated</li><li>Evacuation routes: Primary and secondary routes from your home and workplace</li><li>Meeting points: Designated locations where family members will reunite</li><li>Emergency contacts: List of local emergency services, doctors, and out-of-area contacts</li><li>Pet plan: Arrangements for pets during evacuations</li></ul><h2>Emergency Kit Checklist</h2><ul><li>72-hour supply of water (1 gallon per person per day)</li><li>Non-perishable food and manual can opener</li><li>First aid kit and prescription medications</li><li>Flashlight, batteries, and hand-crank radio</li><li>Important documents in a waterproof container</li></ul>",
+            "summary": "Every family should have an emergency plan in place before disaster strikes. This comprehensive guide walks you through creating a plan that will keep your family safe during any emergency.What Your P"
+          },
+          "resourceType": [
+            {
+              "id": "preparedness-guide",
+              "name": "preparedness-guide"
+            }
+          ],
+          "audience": "Families and individuals",
+          "downloadUrl": "https://globalreliefpartners.org/downloads/family-plan.pdf",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800&q=80",
+            "alt": "Family emergency preparedness planning",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeResource",
+          "id": "resource-community-toolkit",
+          "title": "Community Resilience Toolkit",
+          "path": "/resources/community-resilience-toolkit",
+          "body": {
+            "processed": "<p>The Community Resilience Toolkit provides local leaders, neighborhood organizations, and community groups with the tools and frameworks needed to prepare for, respond to, and recover from disasters.</p><h2>Toolkit Components</h2><ul><li>Community risk assessment template</li><li>Volunteer coordination guide</li><li>Emergency communication plan for neighborhoods</li><li>Resource inventory worksheet</li><li>Post-disaster recovery planning framework</li></ul><h2>Building a Resilient Community</h2><p>Research shows that communities with strong social networks and pre-established plans recover faster from disasters. This toolkit helps you build those connections before they are needed.</p>",
+            "summary": "The Community Resilience Toolkit provides local leaders, neighborhood organizations, and community groups with the tools and frameworks needed to prepare for, respond to, and recover from disasters.To"
+          },
+          "resourceType": [
+            {
+              "id": "community-guide",
+              "name": "community-guide"
+            }
+          ],
+          "audience": "Community leaders and local organizations",
+          "downloadUrl": "https://globalreliefpartners.org/downloads/community-toolkit.pdf",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+            "alt": "Community disaster resilience planning",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeResource",
+          "id": "resource-volunteer-manual",
+          "title": "Disaster Response Volunteer Training Manual",
+          "path": "/resources/volunteer-training-manual",
+          "body": {
+            "processed": "<p>This manual provides comprehensive training materials for volunteers who wish to serve on Global Relief Partners disaster response teams.</p><h2>Training Modules</h2><ul><li>Module 1: Introduction to disaster response and humanitarian principles</li><li>Module 2: Shelter management and displaced population support</li><li>Module 3: Emergency first aid and psychological first aid</li><li>Module 4: Mass feeding and water distribution operations</li><li>Module 5: Damage assessment and reporting</li><li>Module 6: Safety and security in disaster zones</li></ul><h2>Certification</h2><p>Volunteers who complete all training modules and pass the assessment exam receive Disaster Response Volunteer certification, valid for three years.</p>",
+            "summary": "This manual provides comprehensive training materials for volunteers who wish to serve on Global Relief Partners disaster response teams.Training ModulesModule 1: Introduction to disaster response and"
+          },
+          "resourceType": [
+            {
+              "id": "training-manual",
+              "name": "training-manual"
+            }
+          ],
+          "audience": "Prospective and current volunteers",
+          "downloadUrl": "https://globalreliefpartners.org/downloads/volunteer-manual.pdf",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+            "alt": "Volunteer training and disaster response preparation",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

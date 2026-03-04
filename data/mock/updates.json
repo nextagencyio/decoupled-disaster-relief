@@ -1,0 +1,132 @@
+{
+  "data": {
+    "nodeUpdates": {
+      "__typename": "NodeUpdateConnection",
+      "nodes": [
+        {
+          "__typename": "NodeUpdate",
+          "id": "update-hurricane-week3",
+          "title": "Hurricane Maria Response - Week 3 Situation Report",
+          "path": "/updates/hurricane-maria-week-3",
+          "body": {
+            "processed": "<p>Three weeks after Hurricane Maria's devastating landfall, Global Relief Partners continues to provide critical support to affected communities across the Gulf Coast.</p><h2>Key Updates</h2><ul><li>15 shelters remain operational, housing 3,200 residents (down from 8,400 at peak)</li><li>Over 350,000 meals served to date</li><li>Mobile medical units have treated 5,800 patients since the response began</li><li>Debris removal operations underway in 8 counties</li><li>1,200 families have received temporary housing assistance</li></ul><h2>Challenges</h2><ul><li>Power outages persist in 6 counties, affecting water supply and communications</li><li>Road damage limiting access to rural communities</li><li>Rising demand for mental health support services</li></ul><h2>Needs</h2><p>We continue to need volunteers with construction and case management experience. Financial donations remain critical to sustaining long-term recovery operations.</p>",
+            "summary": "Three weeks after Hurricane Maria's devastating landfall, Global Relief Partners continues to provide critical support to affected communities across the Gulf Coast.Key Updates15 shelters remain opera"
+          },
+          "operationName": "Hurricane Maria - Gulf Coast Response",
+          "updateDate": {
+            "timestamp": 1762351200
+          },
+          "urgencyLevel": "High",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&q=80",
+            "alt": "Hurricane recovery efforts in the Gulf Coast",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeUpdate",
+          "id": "update-earthquake-day10",
+          "title": "Turkey Earthquake - Day 10 Situation Report",
+          "path": "/updates/turkey-earthquake-day-10",
+          "body": {
+            "processed": "<p>Ten days after the devastating earthquake in central Turkey, search and rescue operations have concluded and the focus has shifted to providing sustained humanitarian assistance to affected populations.</p><h2>Current Situation</h2><ul><li>Approximately 180,000 people displaced from their homes</li><li>Over 4,000 buildings severely damaged or destroyed</li><li>Temperatures dropping below freezing, increasing urgency for winter shelter</li></ul><h2>Our Response</h2><ul><li>10,000 winterized shelter kits distributed to families</li><li>Field hospitals treating an average of 200 patients per day</li><li>25 water purification systems operational, producing 500,000 liters daily</li><li>Psychosocial support teams providing counseling in 12 locations</li></ul><h2>Next Steps</h2><p>We are scaling up transitional shelter construction and planning for medium-term recovery programming, including livelihood support and school rehabilitation.</p>",
+            "summary": "Ten days after the devastating earthquake in central Turkey, search and rescue operations have concluded and the focus has shifted to providing sustained humanitarian assistance to affected population"
+          },
+          "operationName": "Earthquake Response - Central Turkey",
+          "updateDate": {
+            "timestamp": 1768752000
+          },
+          "urgencyLevel": "Critical",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=80",
+            "alt": "Earthquake relief supply distribution",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeUpdate",
+          "id": "update-flood-initial",
+          "title": "Midwest Flooding - Initial Assessment Report",
+          "path": "/updates/midwest-flooding-initial-report",
+          "body": {
+            "processed": "<p>Global Relief Partners has completed initial damage assessments in 12 counties across Iowa, Illinois, and Missouri following catastrophic spring flooding.</p><h2>Assessment Findings</h2><ul><li>Estimated 6,500 homes with significant flood damage</li><li>28,000 people displaced or directly affected</li><li>Agricultural losses affecting 200,000 acres of farmland</li><li>18 road bridges damaged or impassable</li></ul><h2>Immediate Actions</h2><ul><li>Opened 8 emergency shelters in coordination with local emergency management</li><li>Deploying mobile kitchens to serve 5,000 meals daily</li><li>Distributing flood cleanup kits with mold prevention supplies</li><li>Activating volunteer teams for mud-out and debris removal operations</li></ul>",
+            "summary": "Global Relief Partners has completed initial damage assessments in 12 counties across Iowa, Illinois, and Missouri following catastrophic spring flooding.Assessment FindingsEstimated 6,500 homes with "
+          },
+          "operationName": "Midwest Flooding Response - Spring 2026",
+          "updateDate": {
+            "timestamp": 1772568000
+          },
+          "urgencyLevel": "High",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=800&q=80",
+            "alt": "Flood damage assessment and response",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

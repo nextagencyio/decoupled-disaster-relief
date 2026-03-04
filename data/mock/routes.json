@@ -1,0 +1,711 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Global Relief Partners",
+          "path": "/homepage",
+          "heroTitle": "Ready When Disaster Strikes",
+          "heroSubtitle": "Providing Lifesaving Aid to Communities in Crisis",
+          "heroDescription": {
+            "processed": "<p>Global Relief Partners delivers rapid humanitarian assistance to communities affected by natural disasters and emergencies worldwide. From immediate response to long-term recovery, we stand with those who need us most.</p>",
+            "summary": "Global Relief Partners delivers rapid humanitarian assistance to communities affected by natural disasters and emergencies worldwide. From immediate response to long-term recovery, we stand with those"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-people",
+              "title": "",
+              "number": "2.3M",
+              "label": "People Helped"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-volunteers",
+              "title": "",
+              "number": "18,000",
+              "label": "Active Volunteers"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-operations",
+              "title": "",
+              "number": "47",
+              "label": "Operations This Year"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-countries",
+              "title": "",
+              "number": "32",
+              "label": "Countries Served"
+            }
+          ],
+          "featuredItemsTitle": "Active Operations",
+          "ctaTitle": "Help Communities Recover",
+          "ctaDescription": {
+            "processed": "<p>Your support enables us to respond within hours of a disaster, providing shelter, clean water, food, and medical supplies to families who have lost everything.</p>",
+            "summary": "Your support enables us to respond within hours of a disaster, providing shelter, clean water, food, and medical supplies to families who have lost everything."
+          },
+          "ctaPrimary": "Donate Now",
+          "ctaSecondary": "Volunteer With Us"
+        }
+      }
+    }
+  },
+  "/operations/hurricane-maria-gulf-coast": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOperation",
+          "id": "operation-hurricane",
+          "title": "Hurricane Maria - Gulf Coast Response",
+          "path": "/operations/hurricane-maria-gulf-coast",
+          "body": {
+            "processed": "<p>Global Relief Partners deployed emergency response teams within 12 hours of Hurricane Maria making landfall along the Gulf Coast as a Category 4 storm, bringing 145 mph winds and devastating storm surge.</p><h2>Response Activities</h2><ul><li>Established 15 emergency shelters housing 8,400 displaced residents</li><li>Distributed 120,000 meals and 50,000 gallons of clean water in the first week</li><li>Deployed mobile medical units providing care to 3,200 patients</li><li>Distributed 5,000 emergency supply kits (tarps, hygiene items, flashlights)</li><li>Coordinated search and rescue operations with local emergency services</li></ul><h2>Ongoing Recovery</h2><p>As the emergency phase transitions to recovery, our teams are focusing on temporary housing solutions, debris removal support, and connecting affected families with federal disaster assistance programs.</p>",
+            "summary": "Global Relief Partners deployed emergency response teams within 12 hours of Hurricane Maria making landfall along the Gulf Coast as a Category 4 storm, bringing 145 mph winds and devastating storm sur"
+          },
+          "disasterType": [
+            {
+              "id": "hurricane",
+              "name": "hurricane"
+            }
+          ],
+          "operationStatus": "Active - Recovery Phase",
+          "location": "Gulf Coast, Alabama and Mississippi",
+          "startDate": {
+            "timestamp": 1760504400
+          },
+          "peopleServed": "42,000",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&q=80",
+            "alt": "Hurricane response and relief operations",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/operations/earthquake-central-turkey": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOperation",
+          "id": "operation-earthquake",
+          "title": "Earthquake Response - Central Turkey",
+          "path": "/operations/earthquake-central-turkey",
+          "body": {
+            "processed": "<p>A 7.1 magnitude earthquake struck central Turkey, causing widespread destruction in several provinces. Global Relief Partners activated its international rapid response team within hours.</p><h2>Response Activities</h2><ul><li>Deployed search and rescue teams with specialized equipment</li><li>Established field hospitals treating 1,800 patients</li><li>Distributed 10,000 winterized shelter kits to families</li><li>Provided psychosocial support to 5,000 affected individuals</li><li>Set up water purification systems serving 25,000 people daily</li></ul><h2>Partnerships</h2><p>We are coordinating closely with Turkish emergency management authorities (AFAD), the UN Office for the Coordination of Humanitarian Affairs (OCHA), and local NGO partners.</p>",
+            "summary": "A 7.1 magnitude earthquake struck central Turkey, causing widespread destruction in several provinces. Global Relief Partners activated its international rapid response team within hours.Response Acti"
+          },
+          "disasterType": [
+            {
+              "id": "earthquake",
+              "name": "earthquake"
+            }
+          ],
+          "operationStatus": "Active - Emergency Phase",
+          "location": "Kayseri and Sivas Provinces, Turkey",
+          "startDate": {
+            "timestamp": 1767852000
+          },
+          "peopleServed": "85,000",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=80",
+            "alt": "Earthquake disaster relief and recovery",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/operations/midwest-flooding-2026": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOperation",
+          "id": "operation-flood",
+          "title": "Midwest Flooding Response - Spring 2026",
+          "path": "/operations/midwest-flooding-2026",
+          "body": {
+            "processed": "<p>Record spring rainfall and rapid snowmelt caused catastrophic flooding across the upper Midwest, affecting communities along the Mississippi and Missouri river systems.</p><h2>Response Activities</h2><ul><li>Distributed 25,000 sandbags and flood barriers to at-risk communities</li><li>Evacuated 1,200 residents from flood zones using boats and vehicles</li><li>Opened 8 emergency shelters with capacity for 3,000 people</li><li>Provided hot meals and clean water to 15,000 displaced residents</li><li>Deployed damage assessment teams to 12 counties</li></ul><h2>Community Support</h2><p>Our case managers are working directly with flood-affected families to help them navigate the recovery process, access FEMA assistance, and develop plans for rebuilding.</p>",
+            "summary": "Record spring rainfall and rapid snowmelt caused catastrophic flooding across the upper Midwest, affecting communities along the Mississippi and Missouri river systems.Response ActivitiesDistributed 2"
+          },
+          "disasterType": [
+            {
+              "id": "flood",
+              "name": "flood"
+            }
+          ],
+          "operationStatus": "Active - Stabilization Phase",
+          "location": "Iowa, Illinois, and Missouri",
+          "startDate": {
+            "timestamp": 1772344800
+          },
+          "peopleServed": "28,000",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=80",
+            "alt": "Flood response and evacuation efforts",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/resources/family-emergency-plan": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeResource",
+          "id": "resource-family-plan",
+          "title": "Family Emergency Preparedness Plan",
+          "path": "/resources/family-emergency-plan",
+          "body": {
+            "processed": "<p>Every family should have an emergency plan in place before disaster strikes. This comprehensive guide walks you through creating a plan that will keep your family safe during any emergency.</p><h2>What Your Plan Should Include</h2><ul><li>Communication plan: How your family will contact each other if separated</li><li>Evacuation routes: Primary and secondary routes from your home and workplace</li><li>Meeting points: Designated locations where family members will reunite</li><li>Emergency contacts: List of local emergency services, doctors, and out-of-area contacts</li><li>Pet plan: Arrangements for pets during evacuations</li></ul><h2>Emergency Kit Checklist</h2><ul><li>72-hour supply of water (1 gallon per person per day)</li><li>Non-perishable food and manual can opener</li><li>First aid kit and prescription medications</li><li>Flashlight, batteries, and hand-crank radio</li><li>Important documents in a waterproof container</li></ul>",
+            "summary": "Every family should have an emergency plan in place before disaster strikes. This comprehensive guide walks you through creating a plan that will keep your family safe during any emergency.What Your P"
+          },
+          "resourceType": [
+            {
+              "id": "preparedness-guide",
+              "name": "preparedness-guide"
+            }
+          ],
+          "audience": "Families and individuals",
+          "downloadUrl": "https://globalreliefpartners.org/downloads/family-plan.pdf",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800&q=80",
+            "alt": "Family emergency preparedness planning",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/resources/community-resilience-toolkit": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeResource",
+          "id": "resource-community-toolkit",
+          "title": "Community Resilience Toolkit",
+          "path": "/resources/community-resilience-toolkit",
+          "body": {
+            "processed": "<p>The Community Resilience Toolkit provides local leaders, neighborhood organizations, and community groups with the tools and frameworks needed to prepare for, respond to, and recover from disasters.</p><h2>Toolkit Components</h2><ul><li>Community risk assessment template</li><li>Volunteer coordination guide</li><li>Emergency communication plan for neighborhoods</li><li>Resource inventory worksheet</li><li>Post-disaster recovery planning framework</li></ul><h2>Building a Resilient Community</h2><p>Research shows that communities with strong social networks and pre-established plans recover faster from disasters. This toolkit helps you build those connections before they are needed.</p>",
+            "summary": "The Community Resilience Toolkit provides local leaders, neighborhood organizations, and community groups with the tools and frameworks needed to prepare for, respond to, and recover from disasters.To"
+          },
+          "resourceType": [
+            {
+              "id": "community-guide",
+              "name": "community-guide"
+            }
+          ],
+          "audience": "Community leaders and local organizations",
+          "downloadUrl": "https://globalreliefpartners.org/downloads/community-toolkit.pdf",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+            "alt": "Community disaster resilience planning",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/resources/volunteer-training-manual": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeResource",
+          "id": "resource-volunteer-manual",
+          "title": "Disaster Response Volunteer Training Manual",
+          "path": "/resources/volunteer-training-manual",
+          "body": {
+            "processed": "<p>This manual provides comprehensive training materials for volunteers who wish to serve on Global Relief Partners disaster response teams.</p><h2>Training Modules</h2><ul><li>Module 1: Introduction to disaster response and humanitarian principles</li><li>Module 2: Shelter management and displaced population support</li><li>Module 3: Emergency first aid and psychological first aid</li><li>Module 4: Mass feeding and water distribution operations</li><li>Module 5: Damage assessment and reporting</li><li>Module 6: Safety and security in disaster zones</li></ul><h2>Certification</h2><p>Volunteers who complete all training modules and pass the assessment exam receive Disaster Response Volunteer certification, valid for three years.</p>",
+            "summary": "This manual provides comprehensive training materials for volunteers who wish to serve on Global Relief Partners disaster response teams.Training ModulesModule 1: Introduction to disaster response and"
+          },
+          "resourceType": [
+            {
+              "id": "training-manual",
+              "name": "training-manual"
+            }
+          ],
+          "audience": "Prospective and current volunteers",
+          "downloadUrl": "https://globalreliefpartners.org/downloads/volunteer-manual.pdf",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+            "alt": "Volunteer training and disaster response preparation",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/updates/hurricane-maria-week-3": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeUpdate",
+          "id": "update-hurricane-week3",
+          "title": "Hurricane Maria Response - Week 3 Situation Report",
+          "path": "/updates/hurricane-maria-week-3",
+          "body": {
+            "processed": "<p>Three weeks after Hurricane Maria's devastating landfall, Global Relief Partners continues to provide critical support to affected communities across the Gulf Coast.</p><h2>Key Updates</h2><ul><li>15 shelters remain operational, housing 3,200 residents (down from 8,400 at peak)</li><li>Over 350,000 meals served to date</li><li>Mobile medical units have treated 5,800 patients since the response began</li><li>Debris removal operations underway in 8 counties</li><li>1,200 families have received temporary housing assistance</li></ul><h2>Challenges</h2><ul><li>Power outages persist in 6 counties, affecting water supply and communications</li><li>Road damage limiting access to rural communities</li><li>Rising demand for mental health support services</li></ul><h2>Needs</h2><p>We continue to need volunteers with construction and case management experience. Financial donations remain critical to sustaining long-term recovery operations.</p>",
+            "summary": "Three weeks after Hurricane Maria's devastating landfall, Global Relief Partners continues to provide critical support to affected communities across the Gulf Coast.Key Updates15 shelters remain opera"
+          },
+          "operationName": "Hurricane Maria - Gulf Coast Response",
+          "updateDate": {
+            "timestamp": 1762351200
+          },
+          "urgencyLevel": "High",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&q=80",
+            "alt": "Hurricane recovery efforts in the Gulf Coast",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/updates/turkey-earthquake-day-10": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeUpdate",
+          "id": "update-earthquake-day10",
+          "title": "Turkey Earthquake - Day 10 Situation Report",
+          "path": "/updates/turkey-earthquake-day-10",
+          "body": {
+            "processed": "<p>Ten days after the devastating earthquake in central Turkey, search and rescue operations have concluded and the focus has shifted to providing sustained humanitarian assistance to affected populations.</p><h2>Current Situation</h2><ul><li>Approximately 180,000 people displaced from their homes</li><li>Over 4,000 buildings severely damaged or destroyed</li><li>Temperatures dropping below freezing, increasing urgency for winter shelter</li></ul><h2>Our Response</h2><ul><li>10,000 winterized shelter kits distributed to families</li><li>Field hospitals treating an average of 200 patients per day</li><li>25 water purification systems operational, producing 500,000 liters daily</li><li>Psychosocial support teams providing counseling in 12 locations</li></ul><h2>Next Steps</h2><p>We are scaling up transitional shelter construction and planning for medium-term recovery programming, including livelihood support and school rehabilitation.</p>",
+            "summary": "Ten days after the devastating earthquake in central Turkey, search and rescue operations have concluded and the focus has shifted to providing sustained humanitarian assistance to affected population"
+          },
+          "operationName": "Earthquake Response - Central Turkey",
+          "updateDate": {
+            "timestamp": 1768752000
+          },
+          "urgencyLevel": "Critical",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=80",
+            "alt": "Earthquake relief supply distribution",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/updates/midwest-flooding-initial-report": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeUpdate",
+          "id": "update-flood-initial",
+          "title": "Midwest Flooding - Initial Assessment Report",
+          "path": "/updates/midwest-flooding-initial-report",
+          "body": {
+            "processed": "<p>Global Relief Partners has completed initial damage assessments in 12 counties across Iowa, Illinois, and Missouri following catastrophic spring flooding.</p><h2>Assessment Findings</h2><ul><li>Estimated 6,500 homes with significant flood damage</li><li>28,000 people displaced or directly affected</li><li>Agricultural losses affecting 200,000 acres of farmland</li><li>18 road bridges damaged or impassable</li></ul><h2>Immediate Actions</h2><ul><li>Opened 8 emergency shelters in coordination with local emergency management</li><li>Deploying mobile kitchens to serve 5,000 meals daily</li><li>Distributing flood cleanup kits with mold prevention supplies</li><li>Activating volunteer teams for mud-out and debris removal operations</li></ul>",
+            "summary": "Global Relief Partners has completed initial damage assessments in 12 counties across Iowa, Illinois, and Missouri following catastrophic spring flooding.Assessment FindingsEstimated 6,500 homes with "
+          },
+          "operationName": "Midwest Flooding Response - Spring 2026",
+          "updateDate": {
+            "timestamp": 1772568000
+          },
+          "urgencyLevel": "High",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=800&q=80",
+            "alt": "Flood damage assessment and response",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/team/carla-richardson": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeamMember",
+          "id": "team-executive-director",
+          "title": "Carla Richardson",
+          "path": "/team/carla-richardson",
+          "body": {
+            "processed": "<p>Carla Richardson has served as Executive Director of Global Relief Partners since 2019, leading the organization through some of the most complex humanitarian crises of the past decade.</p><h2>Background</h2><p>Before joining GRP, Ms. Richardson spent 15 years with the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), serving as Deputy Humanitarian Coordinator in three countries.</p><h2>Vision</h2><p>Under her leadership, GRP has expanded its disaster preparedness programs, invested in local capacity building, and pioneered the use of data analytics for more effective disaster response.</p>",
+            "summary": "Carla Richardson has served as Executive Director of Global Relief Partners since 2019, leading the organization through some of the most complex humanitarian crises of the past decade.BackgroundBefor"
+          },
+          "position": "Executive Director",
+          "department": [
+            {
+              "id": "executive-leadership",
+              "name": "executive-leadership"
+            }
+          ],
+          "email": "crichardson@globalreliefpartners.org",
+          "phone": "(202) 555-8100",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Executive Director Carla Richardson",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/team/ahmed-khalil": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeamMember",
+          "id": "team-operations-director",
+          "title": "Ahmed Khalil",
+          "path": "/team/ahmed-khalil",
+          "body": {
+            "processed": "<p>Ahmed Khalil oversees all field operations for Global Relief Partners, coordinating response teams across multiple concurrent disasters and managing logistics for the organization's global supply chain.</p><h2>Experience</h2><p>Mr. Khalil has 20 years of experience in disaster response, including deployments to over 30 major disasters. He previously served as Operations Director for Doctors Without Borders in the Middle East region.</p><h2>Expertise</h2><ul><li>Large-scale emergency logistics and supply chain management</li><li>Multi-agency coordination in complex emergencies</li><li>Field team deployment and security management</li></ul>",
+            "summary": "Ahmed Khalil oversees all field operations for Global Relief Partners, coordinating response teams across multiple concurrent disasters and managing logistics for the organization's global supply chai"
+          },
+          "position": "Director of Field Operations",
+          "department": [
+            {
+              "id": "field-operations",
+              "name": "field-operations"
+            }
+          ],
+          "email": "akhalil@globalreliefpartners.org",
+          "phone": "(202) 555-8120",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+            "alt": "Director of Field Operations Ahmed Khalil",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/team/jennifer-park": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeamMember",
+          "id": "team-volunteer-coordinator",
+          "title": "Jennifer Park",
+          "path": "/team/jennifer-park",
+          "body": {
+            "processed": "<p>Jennifer Park manages Global Relief Partners' volunteer program, recruiting, training, and deploying thousands of volunteers each year to disaster-affected communities.</p><h2>Program Highlights</h2><ul><li>Grew volunteer corps from 8,000 to 18,000 active volunteers</li><li>Developed a comprehensive volunteer training curriculum</li><li>Created the Volunteer Rapid Response Network for 24-hour deployment capability</li><li>Established partnerships with 150 corporate volunteer programs</li></ul>",
+            "summary": "Jennifer Park manages Global Relief Partners' volunteer program, recruiting, training, and deploying thousands of volunteers each year to disaster-affected communities.Program HighlightsGrew volunteer"
+          },
+          "position": "Director of Volunteer Services",
+          "department": [
+            {
+              "id": "volunteer-services",
+              "name": "volunteer-services"
+            }
+          ],
+          "email": "jpark@globalreliefpartners.org",
+          "phone": "(202) 555-8140",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+            "alt": "Director of Volunteer Services Jennifer Park",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About Global Relief Partners",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Global Relief Partners (GRP) is a nonprofit humanitarian organization dedicated to helping communities prepare for, respond to, and recover from natural disasters and emergencies worldwide.</p><h2>Our Mission</h2><p>To deliver rapid, effective humanitarian assistance to disaster-affected communities while building long-term resilience and preparedness.</p><h2>Our History</h2><p>Founded in 2003, Global Relief Partners has grown from a small volunteer organization into a leading disaster response agency, responding to over 500 disasters in 32 countries and assisting more than 2.3 million people.</p><h2>Our Approach</h2><ul><li>Rapid deployment within 24 hours of a disaster</li><li>Community-centered response that empowers local leadership</li><li>Long-term recovery support beyond the emergency phase</li><li>Investment in disaster preparedness and community resilience</li><li>Transparent and accountable use of donor funds</li></ul>",
+            "summary": "Global Relief Partners (GRP) is a nonprofit humanitarian organization dedicated to helping communities prepare for, respond to, and recover from natural disasters and emergencies worldwide.Our Mission"
+          }
+        }
+      }
+    }
+  },
+  "/donate": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-donate",
+          "title": "Support Our Work",
+          "path": "/donate",
+          "body": {
+            "processed": "<p>Your generous contribution enables Global Relief Partners to respond immediately when disaster strikes, providing shelter, food, clean water, and medical care to families who have lost everything.</p><h2>How Your Donation Helps</h2><ul><li>$25 provides emergency supplies for one family for one week</li><li>$50 provides clean water for 100 people for one day</li><li>$100 provides a shelter kit for a displaced family</li><li>$250 funds a mobile medical team for one day</li><li>$500 funds emergency food distribution for 200 people</li></ul><h2>Ways to Give</h2><ul><li>One-time or recurring online donations</li><li>Corporate matching gift programs</li><li>Planned giving and bequests</li><li>In-kind donations of supplies and equipment</li></ul><p>Global Relief Partners is a 501(c)(3) nonprofit organization. All donations are tax-deductible to the extent allowed by law.</p>",
+            "summary": "Your generous contribution enables Global Relief Partners to respond immediately when disaster strikes, providing shelter, food, clean water, and medical care to families who have lost everything.How "
+          }
+        }
+      }
+    }
+  }
+}
