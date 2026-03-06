@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-people",
               "title": "",
-              "number": "2.3M",
+              "number": "2.3M", "value": "2.3M",
               "label": "People Helped"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-volunteers",
               "title": "",
-              "number": "18,000",
+              "number": "18,000", "value": "18,000",
               "label": "Active Volunteers"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-operations",
               "title": "",
-              "number": "47",
+              "number": "47", "value": "47",
               "label": "Operations This Year"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-countries",
               "title": "",
-              "number": "32",
+              "number": "32", "value": "32",
               "label": "Countries Served"
             }
           ],
