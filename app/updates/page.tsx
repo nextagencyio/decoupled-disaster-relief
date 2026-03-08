@@ -7,6 +7,7 @@ import Header from '../components/Header'
 import UpdateCard from '../components/UpdateCard'
 
 export const revalidate = 3600
+export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Situation Updates | First Response Alliance',
