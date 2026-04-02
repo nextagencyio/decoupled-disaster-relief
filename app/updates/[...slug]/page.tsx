@@ -24,7 +24,7 @@ interface UpdateByPathData {
 async function getUpdate(path: string): Promise<DrupalUpdate | null> {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_UPDATE_BY_PATH, { path })
+    const data = await client.raw(GET_UPDATE_BY_PATH, { path })
     return data?.route?.entity || null
   } catch (error) {
     console.error('Error fetching update:', error)

@@ -24,7 +24,7 @@ interface ResourceByPathData {
 async function getResource(path: string): Promise<DrupalResource | null> {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_RESOURCE_BY_PATH, { path })
+    const data = await client.raw(GET_RESOURCE_BY_PATH, { path })
     return data?.route?.entity || null
   } catch (error) {
     console.error('Error fetching resource:', error)
