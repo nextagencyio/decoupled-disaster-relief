@@ -1,5 +1,50 @@
-// Tagged template that returns the query string
+import { gql as gqlParse } from '@apollo/client'
+
+// Tagged template that returns a plain string for use with client.raw()
 const gql = (strings: TemplateStringsArray, ...values: any[]) => strings.reduce((a, s, i) => a + s + (values[i] || ''), '')
+
+// Parsed DocumentNode versions for Apollo useQuery (client components)
+export const GET_OPERATIONS_DOC = gqlParse`
+  query GetOperations($first: Int = 20) {
+    nodeOperations(first: $first, sortKey: CREATED_AT) {
+      nodes {
+        id
+        title
+        path
+        ... on NodeOperation {
+          body {
+            processed
+            summary
+          }
+          disasterType {
+            ... on TermInterface {
+              id
+              name
+            }
+          }
+          operationStatus
+          location
+          startDate {
+            timestamp
+          }
+          peopleServed
+          image {
+            url
+            alt
+            width
+            height
+            variations(styles: [LARGE, MEDIUM]) {
+              name
+              url
+              width
+              height
+            }
+          }
+        }
+      }
+    }
+  }
+`
 
 // Homepage query with stats
 export const GET_HOMEPAGE_DATA = gql`

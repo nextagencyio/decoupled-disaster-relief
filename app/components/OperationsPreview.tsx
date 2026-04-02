@@ -2,13 +2,13 @@
 
 import Link from 'next/link'
 import { useQuery } from '@apollo/client'
-import { GET_OPERATIONS } from '@/lib/queries'
+import { GET_OPERATIONS_DOC } from '@/lib/queries'
 import { OperationsData, DrupalOperation } from '@/lib/types'
 import { ArrowRight, Heart } from 'lucide-react'
 import ResponsiveImage from './ResponsiveImage'
 
 export default function OperationsPreview() {
-  const { data, loading, error } = useQuery<OperationsData>(GET_OPERATIONS, { variables: { first: 3 } })
+  const { data, loading, error } = useQuery<OperationsData>(GET_OPERATIONS_DOC, { variables: { first: 3 } })
   const items = data?.nodeOperations?.nodes || []
 
   if (loading) {
